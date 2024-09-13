@@ -1,6 +1,6 @@
 module github.com/aag2807/triplex-to-go
 
-go 1.18
+go 1.23
 
 require (
 	github.com/onsi/gomega v1.20.1
